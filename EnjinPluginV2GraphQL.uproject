@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0D5F8067-46A0-AF7F-42E5-7085915756E4}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "EnjinPluginV2GraphQL",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
